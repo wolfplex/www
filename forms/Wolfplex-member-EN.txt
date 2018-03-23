@@ -1,0 +1,67 @@
+===============================================================================
+         _  _  _  _____         _______  _____         _______ _     _
+         |  |  | |     | |      |______ |_____] |      |______  \___/ 
+         |__|__| |_____| |_____ |       |       |_____ |______ _/   \_
+                                                              
+         Wolfplex hackerspace ASBL - membership form
+===============================================================================
+
+0. Introduction
+---------------
+
+This form is for hackerspace members.
+
+
+I. Identity
+-----------
+Firstnames (*) .......
+Lastname .............
+
+Address .............. 
+Postal code / city ... 
+Country ..............
+
+Birth date ...........
+Birth place ..........
+Nationality ..........
+
+(*) Please write all your firstnames.
+
+
+II. Community implication
+-------------------------
+
+Check one or both of the boxes.
+
+[ ] I wish to be an hackerspace member
+
+[ ] I wish to be a Wolfplex hackerspace ASBL's 'adhérent' member
+
+
+III. To fill by the legal guardian if you're minor
+--------------------------------------------------
+
+I, ________________________________, as the minor identified in section I's
+legal guardian, allows him/her to join Wolfplex hackerspace ASBL as member
+(effectif or adhérent) and, if applicable, to sit at Conseil d'Administration.
+
+
+(date and signature)
+
+
+
+
+
+
+IV. Wolfplex account creation
+-----------------------------
+
+All the membership information is managed by the Wolfplex intranet.
+
+This intranet could be also reached as members spaces on our site:
+http://www.wolfplex.org/members/
+
+Please state the login you wish and a valid mail address.
+
+Login ................ 
+E-mail ............... 

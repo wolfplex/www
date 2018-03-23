@@ -1,0 +1,61 @@
+﻿===============================================================================
+         _  _  _  _____         _______  _____         _______ _     _
+         |  |  | |     | |      |______ |_____] |      |______  \___/ 
+         |__|__| |_____| |_____ |       |       |_____ |______ _/   \_
+                                                              
+         Wolfplex hackerspace ASBL - Formulaire d'adhésion membre fondateur
+===============================================================================
+
+0. Introduction
+---------------
+
+Le présent formulaire est destiné aux membres fondateurs de l'association qui
+sera créée ce 18 décembre 2010.
+
+I. Identité du membre
+---------------------
+
+Prénoms (*) .......... 
+Nom .................. 
+
+Domicile ............. 
+Code postal, ville ... 
+
+Date de naissance .... 
+Lieu de naissance .... 
+Nationalité .......... 
+
+(*) Indiquez l'ensemble de vos prénoms.
+
+II. Portée de l'investissement
+------------------------------
+
+[ ] Je souhaite être simplement membre effectif
+
+[ ] Je suis candidat pour siéger au conseil d'administration
+
+III. Cadre à remplir pour les mineurs d'âge
+-------------------------------------------
+
+Je soussigné ________________________, agissant en ma qualité de tuteur légal
+légal pour la personne mineure désignée dans le cadre I, autorise celle-ci à
+participer à la fondation de l'association, à en devenir membre effectif et le
+cas échant de siéger au sein du conseil d'administration.
+
+(mention "lu et approuvé", date et signature)
+
+
+
+
+
+IV. Création d'un compte Wolfplex
+---------------------------------
+
+Les informations relative à l'ASBL seront consultables en ligne sur
+l'intranet de Wolfplex.
+
+Cet intranet est pour l'instant à l'adresse suivante :
+http://wolfplex.hackerspaces.be/members/
+
+Login ................ 
+E-mail ............... 
