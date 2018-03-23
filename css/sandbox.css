@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+/*  -------------------------------------------------------------
+    Wolfplex sandbox
+    A black photo and some red / gray stuff
+    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    Author:         Dereckson
+    Tags:           black red gray photo splash
+    Filename:       sandbox.css
+    Version:        1.1
+    Created:        2009-05-17 (forked from Azhàr login.css)
+    Updated:        2011-05-26
+    Licence:        Creative Commons BY 3.0
+    -------------------------------------------------------------    */
+
+/*  -------------------------------------------------------------
+    Sandbox
+    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -    */
+
+body {
+    background-color: black;
+    background-image: url("../img/topborder.png");
+    background-position: top;
+    background-repeat: repeat-x;
+}
+
+#SandBox {
+    /* TODO: try vertical centering */
+    /* Want a border? Try 10px #292829 */
+    background-image: url("../img/sandbox.png");
+    width: 640px;
+    height: 480px;
+    margin: 80px auto auto auto;
+}
+
+/*  -------------------------------------------------------------
+    Items
+    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -    */
+
+#Items {
+    width: 640px;
+    margin: 80px auto auto auto;
+    color: #343434;
+    font-family: "FixedSys Excelsior", Arial, Sans;
+    text-align: center;
+    font-size: 12pt !important;
+}
+
+#Items a {
+    text-decoration: none;
+    color: #ccc;
+}
+
+#Items a:hover {
+	color: red;
+}
+
+/*  -------------------------------------------------------------
+    Font
+    - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -    */
+
+@font-face {
+  font-family: 'FixedSys Excelsior';
+  font-style: normal;
+  font-weight: normal;
+  src: local('FixedSys Excelsior 3.01'), url('FSEX300_0.ttf') format('woff');
+}

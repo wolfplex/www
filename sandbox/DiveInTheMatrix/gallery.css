@@ -1,0 +1,22 @@
+html {
+	overflow: hidden;
+}
+
+body {
+    background: black;
+}
+
+
+#screen {
+	position:absolute;
+	left: 10%;
+	top: 49px;
+	width: 80%;
+	height: 90%;
+	overflow: hidden;
+}
+
+#screen img {
+	position: absolute;
+	left: -1000px;
+}
